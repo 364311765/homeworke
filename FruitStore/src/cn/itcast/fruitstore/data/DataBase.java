@@ -9,5 +9,7 @@ public class DataBase {
 	//初始数据
 	static {		
 		data.add(new FruitItem("1","苹果",5.0,"kg"));
+		data.add(new FruitItem("2","梨子",5.0,"kg"));
+		data.add(new FruitItem("3","西瓜",5.0,"kg"));
 	}
 }
